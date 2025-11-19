@@ -6,7 +6,7 @@
 Some things about me :<br/>
 :one: Programming language developer<br/>
 :two: Professional Developer with over 10 years of experience.<br/>
-:three: Proficient with HTML, CSS, JavaScript, PHP, Visual Basic and Python.<br/> 
+:three: Proficient with HTML, CSS, JavaScript, Node.js, PHP, Visual Basic, C# and Python.<br/> 
 :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
 :five: I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
 :six: Looking for funds to complete my Compiler Project - <a href="https://github.com/19PosBGH32/Rangerarbsoft/edit/main/README.md">Rangerarbsoft</a>.<br/>
